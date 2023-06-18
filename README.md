@@ -1,11 +1,11 @@
-About r-treeheatr
-=================
+About r-treeheatr-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-treeheatr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://trang1618.github.io/treeheatr/index.html, https://trang1618.github.io/treeheatr-manuscript/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-treeheatr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Creates interpretable decision tree visualizations with the data represented as a heatmap at the tree's leaf nodes. 'treeheatr' utilizes the customizable 'ggparty' package for drawing decision trees.
 
